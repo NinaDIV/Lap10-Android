@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982904529082",
+    "project_id": "distrogas-de5a4",
+    "storage_bucket": "distrogas-de5a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982904529082:android:0199cded38425fded06283",
+        "android_client_info": {
+          "package_name": "com.example.distrogas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwV4jRpTKfiOOqt5A94TvHXxjP4gODiuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
